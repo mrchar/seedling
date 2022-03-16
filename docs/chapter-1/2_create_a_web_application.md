@@ -67,6 +67,10 @@ public class Demo1Application {
 2022-03-16 22:04:04.008  INFO 10000 --- [           main] com.example.demo1.Demo1Application       : Started Demo1Application in 1.585 seconds (JVM running for 1.919)
 ```
 
-# 访问
+## 访问
 
 使用浏览器访问`http://localhost:8080/`可以打开网页显示`Hello World!`
+
+## 参考资料
+
+[Developing Your First Spring Boot Application](https://docs.spring.io/spring-boot/docs/current/reference/html/getting-started.html#getting-started.first-application)

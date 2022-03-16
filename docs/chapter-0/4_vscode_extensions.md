@@ -19,3 +19,5 @@ Chinese (Simplified)
 Tabnine
 
 vscode-icons
+
+prettier
