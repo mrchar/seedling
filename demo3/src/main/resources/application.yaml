@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url: jdbc:h2:mem:demo3
+  sql:
+    init:
+      schema-locations:
+        - classpath:migration/schema.sql
